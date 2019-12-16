@@ -48,7 +48,7 @@
     <div class="bg-white py-2 collapse-inner rounded">
       <a class="collapse-item" href="utilities-color.html">Mobile</a>
       <a class="collapse-item" href="utilities-color.html">Accessories</a>
-      <a class="collapse-item" href="utilities-border.html">Bill </a>
+      <a class="collapse-item" href="utilities-border.html">Bill</a>
       <a class="collapse-item" href="utilities-animation.html">E-Money</a>
     </div>
   </div>
